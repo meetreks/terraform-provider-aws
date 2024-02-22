@@ -6,9 +6,9 @@ require (
 	github.com/ProtonMail/go-crypto v0.0.0-20230923063757-afb1ddc0824c
 	github.com/YakDriver/go-version v0.1.0
 	github.com/YakDriver/regexache v0.23.0
-	github.com/aws/aws-sdk-go v1.50.21
+	github.com/aws/aws-sdk-go v1.50.22
 	github.com/aws/aws-sdk-go-v2 v1.25.0
-	github.com/aws/aws-sdk-go-v2/config v1.27.0
+	github.com/aws/aws-sdk-go-v2/config v1.27.1
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.15.0
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.16.2
 	github.com/aws/aws-sdk-go-v2/service/accessanalyzer v1.27.0
@@ -55,7 +55,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/customerprofiles v1.35.0
 	github.com/aws/aws-sdk-go-v2/service/directoryservice v1.23.1
 	github.com/aws/aws-sdk-go-v2/service/docdbelastic v1.7.0
-	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.29.0
+	github.com/aws/aws-sdk-go-v2/service/dynamodb v1.29.1
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.148.0
 	github.com/aws/aws-sdk-go-v2/service/ecr v1.26.0
 	github.com/aws/aws-sdk-go-v2/service/ecs v1.40.0
@@ -111,7 +111,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/resourcegroupstaggingapi v1.20.1
 	github.com/aws/aws-sdk-go-v2/service/rolesanywhere v1.7.0
 	github.com/aws/aws-sdk-go-v2/service/route53domains v1.22.1
-	github.com/aws/aws-sdk-go-v2/service/s3 v1.50.1
+	github.com/aws/aws-sdk-go-v2/service/s3 v1.50.2
 	github.com/aws/aws-sdk-go-v2/service/s3control v1.43.0
 	github.com/aws/aws-sdk-go-v2/service/scheduler v1.7.0
 	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.27.1
@@ -123,14 +123,14 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/shield v1.24.1
 	github.com/aws/aws-sdk-go-v2/service/signer v1.21.0
 	github.com/aws/aws-sdk-go-v2/service/sns v1.28.0
-	github.com/aws/aws-sdk-go-v2/service/sqs v1.30.1
+	github.com/aws/aws-sdk-go-v2/service/sqs v1.30.2
 	github.com/aws/aws-sdk-go-v2/service/ssm v1.47.0
 	github.com/aws/aws-sdk-go-v2/service/ssmcontacts v1.21.1
 	github.com/aws/aws-sdk-go-v2/service/ssmincidents v1.29.0
 	github.com/aws/aws-sdk-go-v2/service/ssmsap v1.11.0
-	github.com/aws/aws-sdk-go-v2/service/sso v1.19.0
+	github.com/aws/aws-sdk-go-v2/service/sso v1.19.1
 	github.com/aws/aws-sdk-go-v2/service/ssoadmin v1.24.1
-	github.com/aws/aws-sdk-go-v2/service/sts v1.27.0
+	github.com/aws/aws-sdk-go-v2/service/sts v1.27.1
 	github.com/aws/aws-sdk-go-v2/service/swf v1.21.1
 	github.com/aws/aws-sdk-go-v2/service/synthetics v1.23.0
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.24.1
@@ -147,8 +147,8 @@ require (
 	github.com/gertd/go-pluralize v0.2.1
 	github.com/google/go-cmp v0.6.0
 	github.com/hashicorp/aws-cloudformation-resource-schema-sdk-go v0.21.0
-	github.com/hashicorp/aws-sdk-go-base/v2 v2.0.0-beta.47
-	github.com/hashicorp/aws-sdk-go-base/v2/awsv1shim/v2 v2.0.0-beta.48
+	github.com/hashicorp/aws-sdk-go-base/v2 v2.0.0-beta.48
+	github.com/hashicorp/aws-sdk-go-base/v2/awsv1shim/v2 v2.0.0-beta.49
 	github.com/hashicorp/awspolicyequivalence v1.6.0
 	github.com/hashicorp/cli v1.1.6
 	github.com/hashicorp/go-cleanhttp v0.5.2
@@ -190,18 +190,18 @@ require (
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.6.0 // indirect
-	github.com/aws/aws-sdk-go-v2/credentials v1.17.0 // indirect
+	github.com/aws/aws-sdk-go-v2/credentials v1.17.1 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.3.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.6.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.8.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/v4a v1.3.0 // indirect
-	github.com/aws/aws-sdk-go-v2/service/iam v1.29.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/iam v1.30.1 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.11.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/checksum v1.3.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.9.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.11.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.17.0 // indirect
-	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.22.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/ssooidc v1.22.1 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/boombuler/barcode v1.0.1 // indirect
 	github.com/bufbuild/protocompile v0.6.0 // indirect
